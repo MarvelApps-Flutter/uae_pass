@@ -1,0 +1,3 @@
+rootProject.name = 'uae_pass'
+include ':android',':libs', ':libraryuaepass'
+
